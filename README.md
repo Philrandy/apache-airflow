@@ -137,9 +137,4 @@ This project demonstrates:
 
 MIT License
 
-------------------------------------------------------------------------
 
-### 👨🏽‍💻 Author
-
-Dagogo Orifama\
-Data Scientist \| ML Engineer \| Cloud Data Engineer
